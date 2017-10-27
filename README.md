@@ -1,7 +1,7 @@
 Move Player: Game demo with PICO-8
 ====
 
-`pico8-moveplayer` is a game demo made with [PICO\-8](https://www.lexaloffle.com/pico-8.php).
+`pico8-moveplayer` is a game demo made with ![PICO\-8](https://www.lexaloffle.com/pico-8.php).
 
 ## Demo
 
